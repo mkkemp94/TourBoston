@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_item_1"
+        android:icon="@drawable/prudential"
+        android:title="Home"/>
+
+    <item
+        android:id="@+id/navigation_subheader"
+        android:title="Tab Navigation">
+        <menu>
+            <item
+                android:id="@+id/navigation_sub_item_1"
+                android:icon="@drawable/icon_food"
+                android:title="Foods"/>
+            <item
+                android:id="@+id/navigation_sub_item_2"
+                android:icon="@drawable/icon_school"
+                android:title="Schools"/>
+            <item
+                android:id="@+id/navigation_sub_item_3"
+                android:icon="@drawable/icon_place"
+                android:title="Places"/>
+        </menu>
+    </item>
+
+</menu>

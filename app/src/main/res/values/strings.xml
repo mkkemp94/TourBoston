@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">TourBoston</string>
+    <string name="string_intro">Welcome to TourBoston, a test application designed to practice the following android programming concepts: \n
+        \n
+        - Designing layouts + views \n
+            \t\t(list views, fragments, tab layouts, view pager \n
+            \t\t drawer layouts + navigation views, \'including\' layouts, \n
+            \t\t recycler views, toolbars + collapsing toolbars, \n
+            \t\t app bars, coordinator layout, card views, \n
+            \t\t nested scroll views, and floating action buttons) \n
+        \n
+        - Intents \n
+            \t\t (switching activities, \n 
+            \t\t opening another app to complete an action) \n
+        \n
+        - Dealing with fragments (view pager + nav drawer)\n
+        \n
+        - Efficiently structuring code</string>
+    <string name="button_to_exploration_activity">Explore Boston</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- For navigation drawer -->
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+    <!-- Lists of attractions -->
+    <string-array name="attraction_list_food">
+        <item></item>
+    </string-array>
+
+    <string name="menu_night_mode">Night mode</string>
+    <string name="menu_night_mode_system">Follow system</string>
+    <string name="menu_night_mode_day">Day (always)</string>
+    <string name="menu_night_mode_night">Night (always)</string>
+    <string name="menu_night_mode_auto">Auto</string>
+</resources>

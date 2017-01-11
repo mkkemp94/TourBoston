@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- This xml contains a recycler view that shows the list of attractions.
+    Fragments will be populated by this list (recycler view) -->
+
+<android.support.v7.widget.RecyclerView  xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rv_attraction_list"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" />
